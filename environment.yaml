@@ -1,0 +1,26 @@
+name: vol-regime
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  #core
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - jupyter
+
+  - pip:
+      - fredapi
+      - torch
+      - torchvision
+      - arch
+      - plotly
+      - python-dotenv
+      - tqdm
+      - pandas-datareader

@@ -1,0 +1,3 @@
+Crisis Period,Model,F1,Recall,ROC-AUC,N Days
+Rate Shock 2022,GARCH,0.8526,0.75,0.8247,230
+Rate Shock 2022,LSTM,0.9519,0.963,0.8151,230

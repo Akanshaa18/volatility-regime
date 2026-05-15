@@ -1,0 +1,7 @@
+{
+  "input_size": 8,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.2,
+  "window": 20
+}
