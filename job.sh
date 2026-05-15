@@ -42,12 +42,12 @@ python data.py
 echo -e "\nRunning notebooks"
 
 NOTEBOOKS=(
-    "preprocessing_eda.ipynb"
-    "garch_baseline.ipynb"
-    "feature_engineering.ipynb"
-    "lstm_model.ipynb"
-    "walk_forward_cv.ipynb"
-    "comparison_analysis.ipynb"
+    "01preprocessing_eda.ipynb"
+    "02garch_baseline.ipynb"
+    "03feature_engineering.ipynb"
+    "04lstm_model.ipynb"
+    "05walk_forward_cv.ipynb"
+    "06comparison_analysis.ipynb"
 )
 
 TOTAL=${#NOTEBOOKS[@]}
